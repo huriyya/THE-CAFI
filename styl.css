@@ -1,41 +1,41 @@
 .sekil1{
     height: 300px;
-    background: url(elsen.jpg);
+    background: url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sekil2{
     height: 400px;
-    background: url(babayev.jpg);
+    background: url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sekil3{
     height: 600px;
-    background: url(cabir.jpeg);
+    background: url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sekil4{
     height: 500px;
-    background: url(togrul.jpg);
+    background: url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sekil5{
     height: 300px;
-    background: url(fexriyye.jpg);
+    background: url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sekil6{
     height: 500px;
-    background:url(aysel.jpg);
+    background:url(mama.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -46,6 +46,8 @@ h2{
 h1{
     background-color: aqua;
     color: blueviolet;
+    text-align: center;
+    font-size: 40px;
 }
 
 
